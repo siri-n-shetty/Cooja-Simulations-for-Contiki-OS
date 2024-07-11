@@ -6,7 +6,7 @@ This repository contains all the simulations, assignments, and projects complete
 
 * Clone the repository to your local machine.
 ```sh
-git clone https://github.com/your-username/Cooja-Simulations-for-Contiki-OS.git
+git clone https://github.com/siri-n-shetty/Cooja-Simulations-for-Contiki-OS.git
 ```
 * Navigate to the desired day's folder to access simulations, assignments, and projects.
 * Review the deliverables in the submissions folder as needed.
